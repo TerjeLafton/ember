@@ -10,6 +10,7 @@ A dark theme with a warm, amber-toned palette.
 - Zed
 - Ghostty
 - Firefox (via [Firefox Color](https://addons.mozilla.org/en-GB/firefox/addon/firefox-color/))
+- Vimium
 - OpenCode
 - Mako
 - Tofi
