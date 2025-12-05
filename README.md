@@ -9,6 +9,7 @@ A dark theme with a warm, amber-toned palette.
 - Neovim
 - Zed
 - Ghostty
+- Firefox (via [Firefox Color](https://addons.mozilla.org/en-GB/firefox/addon/firefox-color/))
 - OpenCode
 - Mako
 - Tofi
