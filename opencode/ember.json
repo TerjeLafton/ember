@@ -1,0 +1,224 @@
+{
+  "$schema": "https://opencode.ai/theme.json",
+  "defs": {
+    "bg": "#0d0d0d",
+    "bg1": "#141414",
+    "bg2": "#1a1a1a",
+    "bg3": "#2a2a2a",
+    "fg": "#e8e4e0",
+    "fgDim": "#908c88",
+    "comment": "#555555",
+    "yellow": "#f0c000",
+    "orange": "#e88a2a",
+    "red": "#d44a3a",
+    "green": "#a9b665",
+    "blue": "#7aa2c7",
+    "tan": "#c4a87a",
+    "gitAdd": "#73c936",
+    "gitDelete": "#ff5555",
+    "bgGitAdd": "#1a2e1a",
+    "bgGitDelete": "#2e1a1a"
+  },
+  "theme": {
+    "primary": {
+      "dark": "yellow",
+      "light": "yellow"
+    },
+    "secondary": {
+      "dark": "orange",
+      "light": "orange"
+    },
+    "accent": {
+      "dark": "tan",
+      "light": "tan"
+    },
+    "error": {
+      "dark": "red",
+      "light": "red"
+    },
+    "warning": {
+      "dark": "orange",
+      "light": "orange"
+    },
+    "success": {
+      "dark": "green",
+      "light": "green"
+    },
+    "info": {
+      "dark": "blue",
+      "light": "blue"
+    },
+    "text": {
+      "dark": "fg",
+      "light": "bg"
+    },
+    "textMuted": {
+      "dark": "fgDim",
+      "light": "fgDim"
+    },
+    "background": {
+      "dark": "bg",
+      "light": "fg"
+    },
+    "backgroundPanel": {
+      "dark": "bg1",
+      "light": "fgDim"
+    },
+    "backgroundElement": {
+      "dark": "bg2",
+      "light": "fgDim"
+    },
+    "border": {
+      "dark": "bg2",
+      "light": "bg3"
+    },
+    "borderActive": {
+      "dark": "tan",
+      "light": "tan"
+    },
+    "borderSubtle": {
+      "dark": "bg2",
+      "light": "bg3"
+    },
+    "diffAdded": {
+      "dark": "gitAdd",
+      "light": "gitAdd"
+    },
+    "diffRemoved": {
+      "dark": "gitDelete",
+      "light": "gitDelete"
+    },
+    "diffContext": {
+      "dark": "fgDim",
+      "light": "fgDim"
+    },
+    "diffHunkHeader": {
+      "dark": "fgDim",
+      "light": "fgDim"
+    },
+    "diffHighlightAdded": {
+      "dark": "gitAdd",
+      "light": "gitAdd"
+    },
+    "diffHighlightRemoved": {
+      "dark": "gitDelete",
+      "light": "gitDelete"
+    },
+    "diffAddedBg": {
+      "dark": "bgGitAdd",
+      "light": "bgGitAdd"
+    },
+    "diffRemovedBg": {
+      "dark": "bgGitDelete",
+      "light": "bgGitDelete"
+    },
+    "diffContextBg": {
+      "dark": "bg1",
+      "light": "bg1"
+    },
+    "diffLineNumber": {
+      "dark": "comment",
+      "light": "comment"
+    },
+    "diffAddedLineNumberBg": {
+      "dark": "bgGitAdd",
+      "light": "bgGitAdd"
+    },
+    "diffRemovedLineNumberBg": {
+      "dark": "bgGitDelete",
+      "light": "bgGitDelete"
+    },
+    "markdownText": {
+      "dark": "fg",
+      "light": "bg"
+    },
+    "markdownHeading": {
+      "dark": "yellow",
+      "light": "yellow"
+    },
+    "markdownLink": {
+      "dark": "blue",
+      "light": "blue"
+    },
+    "markdownLinkText": {
+      "dark": "tan",
+      "light": "tan"
+    },
+    "markdownCode": {
+      "dark": "green",
+      "light": "green"
+    },
+    "markdownBlockQuote": {
+      "dark": "fgDim",
+      "light": "fgDim"
+    },
+    "markdownEmph": {
+      "dark": "orange",
+      "light": "orange"
+    },
+    "markdownStrong": {
+      "dark": "yellow",
+      "light": "yellow"
+    },
+    "markdownHorizontalRule": {
+      "dark": "comment",
+      "light": "comment"
+    },
+    "markdownListItem": {
+      "dark": "orange",
+      "light": "orange"
+    },
+    "markdownListEnumeration": {
+      "dark": "tan",
+      "light": "tan"
+    },
+    "markdownImage": {
+      "dark": "blue",
+      "light": "blue"
+    },
+    "markdownImageText": {
+      "dark": "tan",
+      "light": "tan"
+    },
+    "markdownCodeBlock": {
+      "dark": "fg",
+      "light": "bg"
+    },
+    "syntaxComment": {
+      "dark": "comment",
+      "light": "comment"
+    },
+    "syntaxKeyword": {
+      "dark": "orange",
+      "light": "orange"
+    },
+    "syntaxFunction": {
+      "dark": "yellow",
+      "light": "yellow"
+    },
+    "syntaxVariable": {
+      "dark": "fg",
+      "light": "bg"
+    },
+    "syntaxString": {
+      "dark": "green",
+      "light": "green"
+    },
+    "syntaxNumber": {
+      "dark": "red",
+      "light": "red"
+    },
+    "syntaxType": {
+      "dark": "blue",
+      "light": "blue"
+    },
+    "syntaxOperator": {
+      "dark": "fgDim",
+      "light": "fgDim"
+    },
+    "syntaxPunctuation": {
+      "dark": "fgDim",
+      "light": "fgDim"
+    }
+  }
+}

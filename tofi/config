@@ -1,0 +1,22 @@
+# Ember - Fullscreen
+text-color = #e8e4e0
+prompt-color = #f0c000
+selection-color = #e88a2a
+background-color = #0d0d0daa
+
+# Fullscreen layout
+width = 100%
+height = 100%
+border-width = 0
+outline-width = 0
+padding-left = 45%
+padding-top = 35%
+result-spacing = 25
+num-results = 5
+
+# Font
+font = Berkeley Mono
+font-size = 14
+
+# Behavior
+fuzzy-match = true
